@@ -1,6 +1,6 @@
 ---
 title       : Alex's Super Duper Shiny App
-subtitle    : Predicting Old Faithful Eruptions based on Waiting Time
+subtitle    : Predicting The Duration of Old Faithful Eruptions Based on Waiting Time
 author      : Alex Cook
 job         : 
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
@@ -18,6 +18,9 @@ Have you ever found yourself waiting at Old Faithful, trying to figure out for h
 
 The wait is over! Alex's new Super Duper Shiny App uses loads of data on Old Faithful to predict how long the next
 eruption will be.
+
+The app is located at:
+https://alexbcook.shinyapps.io/oldfaithful/
 
 --- .class #id 
 
